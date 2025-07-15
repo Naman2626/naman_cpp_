@@ -1,0 +1,6 @@
+{
+   "launch":{
+    "editor.acceptSuggestionOnEnter": false,
+    "editor.acceptSuggestionOnCommitCharacter": false
+    }
+}
