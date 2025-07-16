@@ -34,4 +34,6 @@ int main() {
     cout << "Total 'a' in repeated string: " << repeatedString(s, n) << endl;
 
     return 0;
+    /////naman 
+    
 }
